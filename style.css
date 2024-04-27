@@ -14,8 +14,8 @@ h1{
 }
 h3,h4{
     text-align: center;
-    font-family:cursive;
-    color:rgb(255, 215, 105)
+    font-weight: lighter;
+    color:rgb(73, 124, 22);
 }
 #guess{
  width:5cm;
