@@ -34,6 +34,9 @@ select.addEventListener('submit',function(e){
     }
    }
 }
+    if(num>5 &&  value!=no && value>=1 && value<=100){
+    result.innerHTML = "KEEP TRYING";
+}
 if(num<=0){
     document.querySelector(".rem").innerHTML="Attempts Exhausted";
 }
